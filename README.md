@@ -1,4 +1,4 @@
-# Hi, I'm [Pratas Vaidya] 
+# Hi, I'm Pratas Vaidya 
 
 I'm a Grade 11 student from Ontario, Canada, aspiring to become a **Software Engineer**. I love building things that include software logic and hardware.
 
