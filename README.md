@@ -36,7 +36,7 @@ https://outop6.vercel.app/
 
 
 
-Competitions and Events
+#### Competitions and Events
 Halton Skills Coding Competition (2026)
 Selected to represent my school in the secondary coding category.
 
