@@ -1,13 +1,13 @@
 
 # Hi, I'm Pratas Vaidya 
 
-I'm a Grade 11 student from Ontario, Canada, aspiring to become a **Software Engineer**. I love building things that include software logic and hardware.
+I'm a Grade 12 student from Ontario, Canada, aspiring to become a **Software Engineer**. I love building things that include software logic and hardware.
 
 
-### Technical Toolkit
-* **Languages:** C#, JavaScript, HTML/CSS
-* **Hardware:** Arduino, Sensors (Ultrasonic/PIR), Servo Motors
-* **Tools:** Git, Visual Studio, Arduino IDE
+### Technical tools
+* **Languages:** C#, JavaScript, HTML/CSS, Python
+* **Hardware:** Arduino, Sensors (Ultrasonic/PIR), Servo Motors, Raspberry Pi, Oled screens
+* **Tools:** Git, VS and VSC, Arduino IDE
 * **Academic Focus:** Physics, Functions, Chemistry, Computer Science, Computer Engineering
 
 
@@ -28,6 +28,12 @@ A comprehensive C# application made to handle inventory data and automate busine
 * **Tech:** C# (.NET 8)
 * **Key Feature:** Implemented dynamic discount calculations and stock tracking systems.
 
+#### Ontario Top 6 Calculator
+A web application designed for Ontario high school students to calculate their Top 6 Grade 12 (4U/4M) university admission averages based on specific program prerequisites.
+**Tech:** HTML CSS JS, Python
+**Key Feature:** Automatically inputs required courses when you put in an university program, and shows gap to admission cutoff
+https://outop6.vercel.app/
+
 
 
 Competitions and Events
@@ -38,8 +44,7 @@ Developed solutions to complex algorithmic problems within a time limit
 
 Practiced rapid troubleshooting and clean code architecture in a competitive environment.
 
-### What I'm Working On
-*  Preparing for the **Eureka Hackathon**
+
 
 
 ###  Socials
