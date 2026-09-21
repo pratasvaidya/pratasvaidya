@@ -8,19 +8,23 @@ I'm a Grade 12 student from Ontario, Canada, aspiring to become a **Software Eng
 * **Languages:** C#, JavaScript, HTML/CSS, Python
 * **Hardware:** Arduino, Sensors (Ultrasonic/PIR), Servo Motors, Raspberry Pi, Oled screens
 * **Tools:** Git, VS and VSC, Arduino IDE
-* **Academic Focus:** Physics, Functions, Chemistry, Computer Science, Computer Engineering
+* **Academic Focus:** Physics, Advanced Functions, Chemistry, Computer Science, Computer Engineering
 
 
 ### Projects created
+
+#### Cyberdeck AI Assistant
+A standalone, voice-controlled hardware AI assistant built on an ARMv6 single-board computer.
+* **Tech:** Python, Groq API (Whisper/LLM), `luma.oled`, `sounddevice`, `flite`, REST APIs (Spotify, Meross), Linux `systemd`
+* **Key Features:** Push-to-talk voice interface, offline text-to-speech, real-time OLED UI rendering, and natural language tool orchestration for Spotify media and IoT smart home devices.
+* **Repository:** [multifunctional-ai-assistant](https://github.com/pratasvaidya/multifunctional-ai-assistant)
+
+#### Arduino Radar System
 
 #### Arduino Radar System
 Developed a real-time object detection system using an Arduino UNO
 * **Tech:** C++, Ultrasonic Sensors, Servo Motors, NeoPixels, LED strip, buzzer, batteries
 * **Key Features:** Visual feedback loop where NeoPixels change color based on object proximity, and a real time radar shown in Processing IDE.
-<img width="2268" height="4032" alt="IMG_7859" src="https://github.com/user-attachments/assets/9ddea9b0-feb8-40d4-bb92-f361e2cc8d76" />
-<img width="2268" height="4032" alt="IMG_7849" src="https://github.com/user-attachments/assets/37209cd3-ade1-4dbc-ba81-f67bf0182643" />
-<img width="2268" height="4032" alt="IMG_7858" src="https://github.com/user-attachments/assets/209f6ec1-c19b-4e9f-adc1-867c37bdc549" />
-[Code for Arduino based radar system.docx](https://github.com/user-attachments/files/26872283/Code.for.Arduino.based.radar.system.docx)
 
 
 #### Smart Logistics & Inventory Manager
